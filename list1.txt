@@ -1,0 +1,15 @@
+Module                      Test Discription                                                    Status
+
+Header                      Press the "Home" button to refresh the page                         Passed
+
+Header                      Open the Form "Regional Sttengs"                                    Passed
+
+
+
+
+
+
+
+
+
+
