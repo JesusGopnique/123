@@ -4,6 +4,8 @@ Header                      Press the "Home" button to refresh the page         
 
 Header                      Open the Form "Regional Sttengs"                                    Passed
 
+Header/RS                   Change the inteface language                                        Failed
+
 
 
 
